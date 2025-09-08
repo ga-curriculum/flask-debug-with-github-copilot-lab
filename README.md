@@ -3,6 +3,15 @@
   <span class="headline">[tktk Headline]</span>
 </h1>
 
+tktk To get started building out this module by doing a project wide find and replace of the following:
+
+- [tktk Headline] - Replace with the full title of this module.
+- tktk-module-name - Replace with the full title of this module, written in kebab-case (all lowercase, words separated by hyphens). This should be identical to the name of the repo name for this module on GitHub.
+
+This README file should be internal-facing only, and should not be shared with students.
+
+The `canvas-landing-pages/landing.md` file is the landing page that students will see in Canvas (or however else this repository is served). It should contain the **About** and **Content** sections copied from below. When you do this, ensure you change the file path from `./lesson/README.md` to `../lesson/README.md`. The content in the **Internal** section should not be shared with students.
+
 ## About
 
 tktk Write a short but descriptive summary of the content in this module.
@@ -11,15 +20,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
+| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
 
 ## Internal
 
@@ -41,24 +42,13 @@ tktk If there is not solution code related to this module this section and all o
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
-### Deployed site
+### Course landing page
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-### Course landing pages
-
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/landing.html)
 
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 ---
 

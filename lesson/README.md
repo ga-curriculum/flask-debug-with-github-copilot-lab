@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">[tktk Headline]</span>
-  <span class="subhead">Setup</span>
+  <span class="subhead">Lesson</span>
 </h1>
 
 ## Setup
@@ -27,3 +27,7 @@ code .
 ```
 
 tktk Are there more lecture setup steps? Don't forget to add them here.
+
+## tktk Next Section Title
+
+tktk Write the content for the lesson here.
