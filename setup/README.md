@@ -5,10 +5,10 @@
 
 ## Setup
 
-Open your Terminal application and navigate to the **`./flask-ai-training`** directory:
+Open your Terminal application and navigate to the **`./buggy-flask-app-starter`** directory:
 
 ```bash
-cd ./flask-ai-training/buggy
+cd ./buggy-flask-app-starter
 ```
 
 Install dependencies:

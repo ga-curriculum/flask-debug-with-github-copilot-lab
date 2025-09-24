@@ -1,37 +1,34 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Flask Debug Code With Github Copilot</span>
+  <span class="headline">Flask Debug Code With Github Copilot Lab</span>
 </h1>
 
 ## About
 
-Flask Debug Code With Github Copilot
+Flask Debug Code With Github Copilot Lab
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Setup](./setup/README.md)  | 0 hr 10 min | Set up the development environment. |
+| [Lab](./lab/README.md)  | 0 hr 50 min | Practice Debugging with GitHub Copilot |
+| [Bonus Lab (Time Permitting)](./lab/README.md)  | 0 hr 50 min | More Practice Debugging with GitHub Copilot |
+
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Flask
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](./buggy-flask-app-starter)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](./buggy-flask-app-solution)
 
 ### Course landing page
 

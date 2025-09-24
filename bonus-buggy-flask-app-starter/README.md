@@ -1,36 +1,32 @@
-# Flask AI Training - Starter
+# Bonus Buggy Flask App Starter
 
 This is the starter version of a Flask application for AI training purposes.
 
 ## Setup
 
-1. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+Install dependencies:
 
-2. Install dependencies:
-   ```bash
-   pipenv install -r requirements.txt
-   ```
+```bash
+pipenv install -r requirements.txt
+```
 
-3. Activate the virtual environment:
+Activate the virtual environment:
 
-   ```bash
-   pipenv shell
-   ```
+```bash
+pipenv shell
+```
 
-4. Run the application:
-   ```bash
-   python app.py
-   ```
+Run the application:
+   
+```bash
+python app.py
+```
 
-   or 
+  or 
 
-   ```bash
-   pipenv run python app.py
-   ```
+```bash
+pipenv run python app.py
+```
 
 ## API Endpoints
 

@@ -1,36 +1,32 @@
-# Flask AI Training - Buggy Version
+# Buggy Flask App Starter
 
 This is the buggy version of a Flask application for AI training purposes. This version contains intentional bugs and issues for debugging practice.
 
 ## Setup
 
-1. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+Install dependencies:
 
-2. Install dependencies:
-   ```bash
-   pipenv install -r requirements.txt
-   ```
+```bash
+pipenv install -r requirements.txt
+```
 
-3. Activate the virtual environment:
+Activate the virtual environment:
 
-   ```bash
-   pipenv shell
-   ```
+```bash
+pipenv shell
+```
 
-4. Run the application:
-   ```bash
-   python app.py
-   ```
+Run the application:
+   
+```bash
+python app.py
+```
 
-   or 
+  or 
 
-   ```bash
-   pipenv run python app.py
-   ```
+```bash
+pipenv run python app.py
+```
    
 ## Known Issues
 
