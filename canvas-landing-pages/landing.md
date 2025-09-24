@@ -1,14 +1,17 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Debug a Flask App Using Github Copilot Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Debug a Flask App Using Github Copilot Lab
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Lesson](../lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Setup](./setup/README.md)  | 0 hr 10 min | Set up the development environment. |
+| [Lab](./lab/README.md)  | 0 hr 50 min | Practice Debugging with GitHub Copilot |
+| [Bonus Lab (Time Permitting)](./lab/README.md)  | 0 hr 50 min | More Practice Debugging with GitHub Copilot |
+

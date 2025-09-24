@@ -1,11 +1,11 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Flask Debug Code With Github Copilot Lab</span>
+  <span class="headline">Debug a Flask App Using Github Copilot Lab</span>
 </h1>
 
 ## About
 
-Flask Debug Code With Github Copilot Lab
+Debug a Flask App Using Github Copilot Lab
 
 ## Content
 
